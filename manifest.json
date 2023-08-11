@@ -1,0 +1,23 @@
+{
+    "name": "InstaKNUST",
+    "short_name": "InstaKNUST",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "The ultimate companion for capturing and showcasing the beauty of KNUST (Kwame Nkrumah University of Science and Technology). You can effortlessly explore and share the essence of KNUST through captivating visuals and storytelling.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/android-chrome-512x512",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
